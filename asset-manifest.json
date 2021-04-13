@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactphotogallery/static/css/main.1407e0ba.chunk.css",
+    "main.js": "/reactphotogallery/static/js/main.107a207e.chunk.js",
+    "main.js.map": "/reactphotogallery/static/js/main.107a207e.chunk.js.map",
+    "runtime-main.js": "/reactphotogallery/static/js/runtime-main.c70947bd.js",
+    "runtime-main.js.map": "/reactphotogallery/static/js/runtime-main.c70947bd.js.map",
+    "static/js/2.0a03cc62.chunk.js": "/reactphotogallery/static/js/2.0a03cc62.chunk.js",
+    "static/js/2.0a03cc62.chunk.js.map": "/reactphotogallery/static/js/2.0a03cc62.chunk.js.map",
+    "index.html": "/reactphotogallery/index.html",
+    "static/css/main.1407e0ba.chunk.css.map": "/reactphotogallery/static/css/main.1407e0ba.chunk.css.map",
+    "static/js/2.0a03cc62.chunk.js.LICENSE.txt": "/reactphotogallery/static/js/2.0a03cc62.chunk.js.LICENSE.txt",
+    "static/media/stylesheet.css": "/reactphotogallery/static/media/FontsFree-Net-Billabong.0e94b13a.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c70947bd.js",
+    "static/js/2.0a03cc62.chunk.js",
+    "static/css/main.1407e0ba.chunk.css",
+    "static/js/main.107a207e.chunk.js"
+  ]
+}
