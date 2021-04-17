@@ -52,6 +52,9 @@ class Main extends Component{
                     <Route path="/" render = {() =>
                         <div>
                         <h1>Photowall</h1>
+                        {
+                           console.log("Title")
+                        }
                         <PhotoWall posts={this.state.posts} onRemovePhoto={this.removephoto} />
                         </div>
                     }/>
